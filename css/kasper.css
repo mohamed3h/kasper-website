@@ -261,19 +261,19 @@ a:hover {
 /* Small */
 @media (min-width: 768px) {
   .container {
-    width: 750px;
+    width: 900px;
   }
 }
 /* Medium */
 @media (min-width: 992px) {
   .container {
-    width: 970px;
+    width: 1100px;
   }
 }
 /* Large */
 @media (min-width: 1200px) {
   .container {
-    width: 1170px;
+    width: 1400px;
   }
 }
 /* end glopal */
@@ -340,7 +340,7 @@ header .container::after {
   height: 1px;
   background-color: #a2a2a2;
   bottom: 0;
-  width: calc(100% - 30px);
+  width: calc(100% - 20px);
   left: 15px;
 }
 header .logo img {
